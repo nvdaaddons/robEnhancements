@@ -1,11 +1,21 @@
-# Agrega funciones globales y dependientes del programa
+# ROB Enhancements #
+
+* Author: Rainer Brell
+
+Este complemento añade características globales y dependientes de un
+programa.
 
 ## Explorador de Windows y navegadores
 
-* Las carpetas vacías generalmente se reconocen y muestran en el Explorador de Windows 10.
-* Utilice Ctrl+NVDA+f4 para mostrar la URL del documento, presione dos veces y copie al portapapeles.
+* Se reconocen normalmente y se muestran las carpetas vacías en el
+  explorador de Windows 10.
+* Usa NVDA+control+f4 para mostrar la URL del documento, y pulsa dos veces
+  para copiar al portapapeles.
 
 ## Microsoft Outlook
 
-* Generalmente se reconocen las carpetas vacías.
-* Con Ctrl+Alt+j saltas a la primera carpeta debajo de la bandeja de entrada, que contiene correos electrónicos no leídos.
+* Se reconocen normalmente las carpetas vacías.
+* Con ctrl+alt+j se salta a la primera carpeta bajo la bandeja de entrada
+  que contiene mensajes no leídos.
+
+[[!tag dev stable]]
