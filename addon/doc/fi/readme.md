@@ -1,6 +1,6 @@
 # ROB:n laajennukset #
 
-* Author: Rainer Brell
+* Tekijä: Rainer Brell
 
 Tämä lisäosa lisää yleisiä ja ohjelmakohtaisia ominaisuuksia.
 
