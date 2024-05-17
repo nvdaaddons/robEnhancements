@@ -1,6 +1,6 @@
 # ROB Enhancements #
 
-* Author: Rainer Brell
+* Autor: Rainer Brell
 
 Este complemento añade características globales y dependientes de un
 programa.
